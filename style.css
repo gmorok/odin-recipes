@@ -1,0 +1,20 @@
+a {
+    text-decoration: none;
+    padding: 15px;
+    background: lightskyblue;
+    color: black;
+}
+a:hover{
+    background: skyblue;
+}
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 48px;
+    color: lightsalmon;
+}
+.nav{
+    margin: 0 auto;
+    width: 475px;
+    height: auto;
+}
